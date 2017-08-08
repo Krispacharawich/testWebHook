@@ -1,5 +1,24 @@
 {
-    "name": "NodeJS WebHook",
-    "description": "Simple Web Hook",
-    "keywords": ["webhook"]
+  "name": "testWebHook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krispacharawich/testWebHook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krispacharawich/testWebHook/issues"
+  },
+  "homepage": "https://github.com/Krispacharawich/testWebHook#readme"
 }
